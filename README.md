@@ -19,7 +19,6 @@ A series of experiments explore in-sample and out-of-sample results, market impa
 
 These indicators were selected for their diversity and combined using majority voting in the manual strategy. The parameters and thresholds for these indicators are summarized below:
 
-<img src="assets/Indicators_Config.png" alt="Technical Indicators Configuration" style="width:100%; height:auto"/>
 
 ## ⚙️ Manual Strategy
 
