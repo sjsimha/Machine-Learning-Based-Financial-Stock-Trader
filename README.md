@@ -59,10 +59,12 @@ To make the project more real-world, market impact was introduced as a factor fo
 
 ## 📁 Project Structure
 
-- `ManualStrategy.py`: Rule-based trading logic
-- `StrategyLearner.py`: ML-based learner using Random Forest
+- `BagLearner.py`: Random forest ML learner
+- `ManualStrategy.py`: Manual Strategy
 - `indicators.py`: Computes RSI, %B, STO
-- `marketsim.py`: Simulates portfolio performance
+- `marketsimcode.py`: Simulates portfolio performance
+- 'experiment1.py': Runs experiment #1
+- 'experiment2.py': Runs experiment #2
 - `testproject.py`: Runs both strategies and generates results
 - `report.docx`: Full write-up of the project and experiments
 
