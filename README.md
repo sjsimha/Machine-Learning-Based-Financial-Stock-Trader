@@ -1,5 +1,5 @@
 # 📈 Machine Learning-Based Stock Trading Engine
-Machine Learning algorithms generally excel in recognizing patterns in data, and can identify complex, nonlinear relationships that traditional statistical models may miss. They can analyze datasts with many variables (features) without the need to simplify the problem space, making them powerful for scenarios like image recognition, genomic data, and financial markets.
+Machine Learning algorithms generally excel in recognizing patterns in data, and can identify complex, nonlinear relationships that traditional statistical models may miss. They can analyze datasets with many variables (features) without the need to simplify the problem space, making them powerful for scenarios like image recognition, genomic data, and financial markets.
 
 Specifically, they are suited to learn from new data and adapt over time, improving predictions as patterns evolve. This is particularly useful for time-series data such as with stock trading.
 
