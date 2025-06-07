@@ -4,6 +4,8 @@ Machine Learning algorithms generally excel in recognizing patterns in data, and
 
 Specifically, they are suited to learn from new data and adapt over time, improving predictions as patterns evolve. This is particularly useful for time-series data such as with stock trading.
 
+The in-depth project report and analyis is available ![here](Analysis.pdf)
+
 
 ## 🧠 Project Overview
 
